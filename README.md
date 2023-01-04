@@ -11,3 +11,6 @@ This is bracnch 1
 
 edit - made an edit here
 
+edit - for trying reset command
+
+edit2 - for trying reset with head
